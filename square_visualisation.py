@@ -1,4 +1,4 @@
-
+#We will use similar setups for all bursting sims (probably, might change depending on the specifics.)
 # VISUALIZATION SETUP
 fig = plt.figure(figsize=(15, 9), facecolor='#fafafa')
 # --- Layout Configuration ---
