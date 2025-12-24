@@ -1,4 +1,9 @@
 # Morris_Lecar_Extensions
+
+FINAL FINDINGS- Final_final.pdf
+
+
+
 A temporary landing site for all deliverables related to the project "From Spikes to Bursts — Modeling Calcium-Mediated Neural Dynamics with Stochastic 3D Morris–Lecar Extensions"
 
 An interactive, Python-based simulator for exploring the dynamics of the Morris-Lecar neuron model. This tool is designed for students and researchers to visualize phase plane geometry, bifurcation theory, and biological excitability.
