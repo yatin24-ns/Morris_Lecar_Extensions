@@ -2,6 +2,8 @@
 
 FINAL FINDINGS- Final_final.pdf
 
+NOTE- CODE FOR ELLIPTIC BURSTING IS NOT UPLOADED, BECAUSE THERE WERE SOME MINOR BUGS.
+
 
 
 A temporary landing site for all deliverables related to the project "From Spikes to Bursts — Modeling Calcium-Mediated Neural Dynamics with Stochastic 3D Morris–Lecar Extensions"
