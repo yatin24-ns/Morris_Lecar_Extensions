@@ -1,8 +1,7 @@
 # Morris_Lecar_Extensions
 
 FINAL FINDINGS- Final_final.pdf
-
-NOTE- CODE FOR ELLIPTIC BURSTING IS NOT UPLOADED, BECAUSE THERE WERE SOME MINOR BUGS.
+please reach out via mail if this pdf file doesnt open.
 
 
 
